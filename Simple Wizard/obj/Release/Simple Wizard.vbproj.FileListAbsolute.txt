@@ -31,3 +31,13 @@ C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\Simple Wizard\obj\Release\Simple Wi
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\Simple Wizard\obj\Release\Simple Wizard.exe
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\Simple Wizard\obj\Release\Simple Wizard.xml
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\Simple Wizard\obj\Release\Simple Wizard.pdb
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\Simple Wizard.exe
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\Simple Wizard.pdb
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\Simple Wizard.xml
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple_Wizard.frmWizard.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple_Wizard.Resources.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple_Wizard.ucDBConnection.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple Wizard.vbproj.GenerateResource.Cache
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple Wizard.exe
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple Wizard.xml
+C:\Users\maxim\Desktop\code\odm-data-loader\Simple Wizard\obj\Release\Simple Wizard.pdb

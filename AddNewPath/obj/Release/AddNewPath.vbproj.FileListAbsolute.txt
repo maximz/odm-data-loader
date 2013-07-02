@@ -25,3 +25,11 @@ C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\AddNewPath\obj\Release\AddNewPath.v
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\AddNewPath\obj\Release\AddNewPath.dll
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\AddNewPath\obj\Release\AddNewPath.xml
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\AddNewPath\obj\Release\AddNewPath.pdb
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\bin\Release\AddNewPath.dll
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\bin\Release\AddNewPath.pdb
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\bin\Release\AddNewPath.xml
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\obj\Release\AddNewPath.Resources.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\obj\Release\AddNewPath.vbproj.GenerateResource.Cache
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\obj\Release\AddNewPath.dll
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\obj\Release\AddNewPath.xml
+C:\Users\maxim\Desktop\code\odm-data-loader\AddNewPath\obj\Release\AddNewPath.pdb
