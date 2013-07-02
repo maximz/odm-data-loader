@@ -37,3 +37,16 @@ C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\ODM Data Loader GUI\obj\Release\ODM
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\ODM Data Loader GUI\obj\Release\ODM_Data_Loader_GUI.frmMain.resources
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\ODM Data Loader GUI\obj\Release\ODM_Data_Loader_GUI.Resources.resources
 C:\DEV\ODM\HydroServer\ODM_Data_Loader\Trunk\ODM Data Loader GUI\obj\Release\ODM Data Loader GUI.vbproj.GenerateResource.Cache
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\ODMLoader.exe.config
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODMLoader.exe
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODMLoader.xml
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODMLoader.pdb
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\ODMLoader.exe
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\ODMLoader.pdb
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\bin\Release\ODMLoader.xml
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODM Data Loader GUI.vbprojResolveAssemblyReference.cache
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODM_Data_Loader_GUI.frmAbout.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODM_Data_Loader_GUI.FrmDBConnection.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODM_Data_Loader_GUI.frmMain.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODM_Data_Loader_GUI.Resources.resources
+C:\Users\maxim\Desktop\code\odm-data-loader\ODM Data Loader GUI\obj\Release\ODM Data Loader GUI.vbproj.GenerateResource.Cache
